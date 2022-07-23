@@ -1,0 +1,11 @@
+@media (min-width: 1281px) {
+    #navbar{
+        width: 20%;
+        background-color: gray;
+        height: 100%;
+        background-color: white;
+    }
+    #main-doc{
+        width: 80%;
+    }
+}
